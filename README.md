@@ -1,4 +1,4 @@
-# Relative Path Inserter for Apache NetBeans
+# Relative Path Inserter Plugin for Apache NetBeans
 
 A lightweight Apache NetBeans plugin to insert relative file paths into editor text.
 
@@ -43,4 +43,6 @@ https://github.com/PUS234/RelativePathInserter
 ## License
 MIT License  
 See the LICENSE file for details.
+## Keywords
+NetBeans plugin, relative path, file path inserter, IDE extension, Java tooling, NetBeans editor extension
 
